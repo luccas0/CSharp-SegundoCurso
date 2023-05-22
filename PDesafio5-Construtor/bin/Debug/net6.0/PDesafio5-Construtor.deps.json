@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PDesafio5-Construtor/1.0.0": {
+        "runtime": {
+          "PDesafio5-Construtor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PDesafio5-Construtor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
